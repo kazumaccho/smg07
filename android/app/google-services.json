@@ -1,0 +1,91 @@
+{
+  "project_info": {
+    "project_number": "190257818616",
+    "firebase_url": "https://smgtest03-69c39.firebaseio.com",
+    "project_id": "smgtest03-69c39",
+    "storage_bucket": "smgtest03-69c39.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190257818616:android:a8202def644268e370040d",
+        "android_client_info": {
+          "package_name": "com.kazumaccho.fireshipguide"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190257818616-114lcdeuds1alinfhrgdsv3ni073o1lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQaT_OEZ0VojbpA2o6hxRGHBim3NKTJzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190257818616-114lcdeuds1alinfhrgdsv3ni073o1lp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190257818616-1bt715n7j9rjee0jo8rse79ka1lueu3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazumaccho.smg07"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190257818616:android:2274ecb0b20c95dd70040d",
+        "android_client_info": {
+          "package_name": "com.kazumaccho.smg07"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190257818616-rl61doh51jmjaj6c4eivbhvqbh71ge54.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kazumaccho.smg07",
+            "certificate_hash": "388886f2bd8a7cf34ea02483c495091874877af4"
+          }
+        },
+        {
+          "client_id": "190257818616-114lcdeuds1alinfhrgdsv3ni073o1lp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBQaT_OEZ0VojbpA2o6hxRGHBim3NKTJzU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190257818616-114lcdeuds1alinfhrgdsv3ni073o1lp.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "190257818616-1bt715n7j9rjee0jo8rse79ka1lueu3r.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.kazumaccho.smg07"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
